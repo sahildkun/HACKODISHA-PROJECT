@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Decentralised Voting
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This Project consist of a smart contract part on Solidity and Hedera sdk
+And the frontend part on React JS
 
 ## Available Scripts
 
